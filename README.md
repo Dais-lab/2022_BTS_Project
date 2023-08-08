@@ -16,9 +16,9 @@ Therefore, it was intended to develop a test bed that can perform pretreatment, 
 
 ### Contribution
 `Changhyun Lee` &nbsp;: Frontend, Backend, Real time anomaly detection     
-`Junhyeok Choi` &nbsp;: Modeling, Real time anomaly detection     
+`Junhyeok Choi` &nbsp;: Time series anomaly detection, Image anomaly detection, Sound anomaly detection    
 `Taeyeon Kim`   &nbsp;: Backend, Arduino     
-`Seonyeong Kim`  &nbsp;: Modeling     
+`Seonyeong Kim`  &nbsp;: Time series anomaly detection     
 
 ## Tools
 
