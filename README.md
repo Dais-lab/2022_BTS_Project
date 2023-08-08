@@ -15,7 +15,7 @@ Therefore, it was intended to develop a test bed that can perform pretreatment, 
 `Sudong Lee`
 
 ### Contribution
-`Changhyun Lee` &nbsp;: Frontend, Backend, Real time anomaly detection     
+`Changhyun Lee` &nbsp;: Project Manager, Frontend, Backend, Arduino, Realtime anomaly detection    
 `Junhyeok Choi` &nbsp;: Time series anomaly detection, Image anomaly detection, Sound anomaly detection    
 `Taeyeon Kim`   &nbsp;: Backend, Arduino     
 `Seonyeong Kim`  &nbsp;: Time series anomaly detection     
@@ -39,6 +39,8 @@ environment : Ubuntu 20.04 - RTX 3090
 
 ### To Use
 
+
+(도커에 대한 이해도가 낮을때 개발된 것이라 예상치못한 오류가 발생할 수 있습니다. 양해바랍니다.)
 1. work directory 이동 - cd 2022BTS_DaisLab_ADP-main
 2. Docker Image 제작.
     
